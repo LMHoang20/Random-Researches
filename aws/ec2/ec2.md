@@ -73,3 +73,14 @@ EC2 instances are *ephemeral*. This means that they are temporary. When an insta
 - Simple Storage Service (S3)
 - Glacier
 - ...
+
+# Elastic Ecosystem
+
+## Elastic Load Balancer (ELB)
+
+Elastic Load Balancing automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, IP addresses, and Lambda functions. It can handle the varying load of your application traffic in a single Availability Zone or across multiple Availability Zones. Elastic Load Balancing offers three types of load balancers that all feature the high availability, automatic scaling, and robust security necessary to make your applications fault tolerant.
+
+## Elastic Container Service (ECS)
+
+Elastic Container Service (ECS) is a highly scalable, high performance container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances.
+
